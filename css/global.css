@@ -50,6 +50,10 @@ body > header {
     box-shadow: 1px 0px 8px rgb(200, 200, 200);
 }
 
+.logo-search {
+    margin-left: 1em;
+}
+
 header .logo-search form  {
     width: 50%;
 }
